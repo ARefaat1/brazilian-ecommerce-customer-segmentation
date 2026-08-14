@@ -1,0 +1,5 @@
+KMeans_Cluster,n_customers,Recency,Frequency,Monetary,Avg_Order_Value,Cancellation_Rate,is_low_rating,pct_of_customers,pct_of_revenue,Top_Category,Top_Payment_Channel
+3,2791,220.22,2.11,308.6,145.84,0.0,0.19,3.0,5.6,bed_bath_table,credit_card
+0,40301,232.84,1.0,276.81,276.81,0.0,0.16,43.2,72.3,bed_bath_table,credit_card
+2,107,217.77,1.09,253.16,238.92,0.49,0.61,0.1,0.2,health_beauty,credit_card
+1,50158,243.06,1.0,67.35,67.35,0.0,0.1,53.7,21.9,bed_bath_table,credit_card
