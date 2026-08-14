@@ -1,0 +1,4 @@
+Algorithm,K/Clusters,Silhouette,Davies-Bouldin,Largest_Segment_Pct,Can_Score_New_Customers,Evaluation_Set,Balanced,Primary_Rank,Selection_Priority,Selected
+K-Means,5,0.36913006314088975,0.7581898384317844,46.404231103970005,True,Train,True,3.0,3.0,True
+Agglomerative,5,0.35082878780960564,0.7661698968741272,46.12,False,Train sample (5000),True,5.0,6.0,False
+DBSCAN,7,0.2949309690140913,0.7335807304804557,84.9630460336977,False,Train (noise excluded),False,4.0,15.0,False
